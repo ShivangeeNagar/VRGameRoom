@@ -1,4 +1,4 @@
-# VRGameRoom_Shivangee
+# VRGameRoom
 VR Haptics Perception Project
 
 VR Project Banner
