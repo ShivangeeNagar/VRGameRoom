@@ -37,7 +37,7 @@ The VR Haptics Perception Project has been successfully deployed on the Meta Que
 Acknowledgments
 
 I would like to express my gratitude to Northeastern University for providing the resources and support necessary for the successful completion of this project.
-<img width="407" alt="Screen Shot 2023-04-18 at 3 17 46 PM" src="https://github.com/ShivangeeNagar/VRGameRoom_Shivangee/assets/90488975/6c811237-6096-4661-abf6-7687c7a88fa5">
+<img width="200" alt="Screen Shot 2023-04-18 at 3 17 46 PM" src="https://github.com/ShivangeeNagar/VRGameRoom_Shivangee/assets/90488975/6c811237-6096-4661-abf6-7687c7a88fa5">
 
 
 Contact
