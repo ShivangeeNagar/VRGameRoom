@@ -31,6 +31,7 @@ The VR Haptics Perception Project comprises several key areas of focus:
 
     7. Haptics and Sounds: Integrating haptic feedback and spatial audio to enhance immersion, making interactions more engaging and responsive.
 
+
 Tech-Stack:
 Unity, C++, C and C# , Meta Quest 2
 
