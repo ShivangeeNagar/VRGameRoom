@@ -9,6 +9,7 @@ VR Project Banner
 
 
 Welcome to the README for the VR Haptics Perception Project developed during my tenure as a Research Assistant at Northeastern University. This project explores the realm of haptics perception within everyday virtual reality experiences, focusing on its implementation and evaluation on the Meta Quest 2 platform.
+
 Project Overview
 
 Virtual Reality (VR) has opened up new possibilities for immersive experiences, and understanding how haptics affect human perception is crucial for creating truly captivating virtual environments. The main objectives of this project were to investigate the levels and nuances of haptic feedback that are well-perceived by users during their interaction with VR content.
