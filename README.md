@@ -23,7 +23,7 @@ The VR Haptics Perception Project comprises several key areas of focus:
 
     3. Hand Models: Creating realistic hand models that accurately replicate users' hand movements and interactions within the VR world.
 
-    4. bject Interaction: Enabling the interaction with virtual objects through realistic grabbing and manipulation mechanics, enhancing the sense of presence and agency.
+    4. Object Interaction: Enabling the interaction with virtual objects through realistic grabbing and manipulation mechanics, enhancing the sense of presence and agency.
 
     5. Object Motion Smoothing: Implementing techniques to ensure the natural and smooth movement of virtual objects, reducing any jarring or unrealistic motion.
 
